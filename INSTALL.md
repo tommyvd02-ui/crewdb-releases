@@ -1,9 +1,7 @@
 # Installing CrewDB
 
 CrewDB is a small app for running a student film set as the 1st AD: crew,
-schedules, call sheets, locations, budgets and gear, all in one place. Tommy
-Van Dyke built it for his own productions and shares it with the program.
-Everything you enter stays on your Mac.
+schedules, call sheets, locations, budgets and gear, all in one place. 
 
 ## What you need
 
@@ -18,7 +16,7 @@ Everything you enter stays on your Mac.
    **https://github.com/tommyvd02-ui/crewdb-releases/releases/latest/download/CrewDB_AppleSilicon.dmg**
 2. Open **CrewDB_AppleSilicon.dmg** from your Downloads folder. A window opens
    with CrewDB and a shortcut to your Applications folder.
-3. **Drag CrewDB onto Applications.**
+3. **Drag CrewDB into Applications.**
 4. Close the window and eject the disk image (click ⏏ next to "CrewDB" in the
    Finder sidebar). You can delete the .dmg file now.
 5. Open CrewDB from your Applications folder, or press ⌘-Space and type
