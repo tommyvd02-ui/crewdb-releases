@@ -2,11 +2,9 @@
 
 CrewDB is a Mac app for running a student film set as the 1st AD: crew,
 schedules, call sheets, locations, budgets and gear, all in one place. Your
-data stays on your Mac. It was built by Tommy Van Dyke for his own
-productions and is shared with classmates in his film program.
+data stays on your Mac. 
 
-This repository only hosts the downloads and automatic updates. The source
-code isn't here.
+Designed by Tommy Van Dyke and built with Claude
 
 ## Download
 
